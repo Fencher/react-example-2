@@ -1242,3 +1242,11 @@ It is reported that `npm run build` can fail on machines with no swap space, whi
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+up server...
+```
+java -jar -Dspring.datasource.password=root instalura.jar
+```
